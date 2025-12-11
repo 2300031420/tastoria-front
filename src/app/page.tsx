@@ -72,12 +72,7 @@ export default function Portfolio() {
           <p className="text-lg md:text-2xl text-white/90 mb-8 text-center max-w-2xl">
             Experience the perfect blend of artisanal coffee, gourmet cuisine, and warm hospitality in our cozy Tastoria Cafe.
           </p>
-          <a
-            href="/menu-page"
-            className="inline-block px-8 py-3 bg-white text-black font-semibold rounded-lg shadow-lg hover:bg-gray-200 transition"
-          >
-            VIEW MENU
-          </a>
+       
         </div>
       </section>
       <motion.div 
