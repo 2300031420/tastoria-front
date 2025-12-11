@@ -72,7 +72,7 @@ export default function Portfolio() {
           <p className="text-lg md:text-2xl text-white/90 mb-8 text-center max-w-2xl">
             Experience the perfect blend of artisanal coffee, gourmet cuisine, and warm hospitality in our cozy Tastoria Cafe.
           </p>
-         
+       
         </div>
       </section>
       <motion.div 
