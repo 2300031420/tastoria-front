@@ -61,11 +61,7 @@ const tableId = tableMatch ? tableMatch[1] : null;
 
 const NAV_MENU = [
   { name: "About", icon: UserCircleIcon, href: "#about" },
-  {
-    name: "Menu",
-    icon: ShoppingBagIcon,
-    href: "/menu-page",
-  },
+
   { name: "Contact", icon: PhoneIcon, href: "#contact" },
   {
     name: "Order History",
