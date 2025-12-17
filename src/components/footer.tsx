@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { Facebook, Instagram } from "lucide-react";
 const LINKS = [
-  { title: "Menu", href: "/menu-page" },
   { title: "About Us", href: "#about" },
   { title: "Contact", href: "#contact" },
 ];
