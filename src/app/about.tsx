@@ -76,7 +76,6 @@ export function About() {
             <Image
               src="/image/Tas.jpg"
               alt="Cafe Interior"
-              fill
               className="rounded-lg shadow-lg object-cover"
               priority
             />
